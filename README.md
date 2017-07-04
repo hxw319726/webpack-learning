@@ -1,1 +1,2 @@
 # webpack-learning
+npm start
